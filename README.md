@@ -30,3 +30,8 @@ Ticari kullanım mümkündür, ancak aşağıdaki şartlara bağlıdır:
 - Platformun ticari versiyonları, Vicdan Uyumu Sertifikası ile uyumlu olmalıdır.
 
 Bu proje, hem manevi bir miras hem de etik temelli bir ticari sistemdir.
+## 🚀 Hızlı Başlangıç
+
+1. Kodun ruhunu anlamak için [Vicdan Manifestosu](./README.md)'nu oku  
+2. Ticari kullanım için [Vicdan Uyumu Sertifikası](./CERTIFICATE.md)'nı incele  
+3. Manevi telif şartlarını [LICENSE](./LICENSE) dosyasında bul  
