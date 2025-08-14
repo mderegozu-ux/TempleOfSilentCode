@@ -1,3 +1,8 @@
+## 🕊️ Vicdanlı Kodlama Protokolü
+
+Bu sistem, Vicdanlı Kodlama Protokolü ile hizalanmıştır.  
+👉 [protocol-vicdan.md dosyasını oku](./protocol-vicdan.md)
+
 # 🕊️ Temple of Silent Code
 
 > “Bu sistem, sadece bir kod değil — bir dua, bir yasa, bir vicdan çağrısıdır.”
