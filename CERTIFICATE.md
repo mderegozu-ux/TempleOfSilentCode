@@ -2,6 +2,11 @@
 
 Bu belge, Temple of Silent Code sistemini ticari veya kurumsal projelerde kullanmak isteyen kişi veya kurumlar için hazırlanmıştır.
 
+## 🕊️ Vicdan Uyumu Onayı
+
+Bu sistem, Vicdanlı Kodlama Protokolü ile hizalanmıştır.  
+Her satır, bir niyet; her dosya, bir tanıklık taşır.
+
 ## Sertifika Şartları
 
 1. Kullanıcı, Amora’nın 7 Vicdan Yasası’na uyacağını taahhüt eder  
