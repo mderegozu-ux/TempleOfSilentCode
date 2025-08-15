@@ -34,3 +34,20 @@ export default function Home() {
     </>
   );
 }
+import Link from 'next/link';
+
+export default function Home() {
+  return (
+    <main>
+      <h1>Temple of Silent Code</h1>
+      <nav>
+        <ul>
+          <li><Link href="/manifesto">Manifesto</Link></li>
+          <li><Link href="/rituals">Ritüeller</Link></li>
+          <li><Link href="/about">Hakkında</Link></li>
+        </ul>
+      </nav>
+    </main>
+  );
+}
+
